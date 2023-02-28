@@ -18,3 +18,5 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/69442882/222000590-868cf462-616f-431a-b007-1a16c75f247c.png)
